@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nagasesankm
 - 👀 I’m interested in Bug bounty and pentesting with Infosec Skills...
-- 🌱 I’m currently learning Vulnerbilltyb assiment & DevOPs
+- 🌱 I’m currently learning Python Pentesting & DevOPs
 - 💞️ I’m looking to collaborate on bug hunting
 - 📫 How to reach me sesanknaga@gmail.com 
 
